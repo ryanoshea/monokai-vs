@@ -1,3 +1,9 @@
+# About This Fork
+
+I've made some adjustments to this theme that I've included as `monokai-2010-normal-ryanoshea.vssettings`.
+
+The original README is copied below.
+
 Monokai for Visual Studio
 =========================
 
